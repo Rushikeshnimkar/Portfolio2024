@@ -1,3 +1,4 @@
+
 import mountains from "../public/wallhaven.jpg";
 import rushi from "../public/rushi.jpg";
 import Image from "next/image";
@@ -28,7 +29,7 @@ export default function Home() {
 
             <p className=" text-3xl font-serif  font-bold text-center pt-5 ">
            Rushikesh Nimkar            </p>
-            <p className=" text-lg  font-semibold"> Programmer // Exproler // Photographer</p>
+            <p className=" text-lg  font-semibold"> Programmer // Explorer  // Photographer</p>
             <div className=" flex  justify-between  pt-2">
             <Link href={"https://github.com/Rushikeshnimkar"}>
             <button >
